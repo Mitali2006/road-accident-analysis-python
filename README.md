@@ -70,7 +70,7 @@ A **Linear Regression model** was developed to predict the number of casualties 
 - Use real-time traffic accident datasets 🌐  
 
 ## Author 👨‍💻
-[Your Name]
+[Mitali]
 
 ## License 📜
 This project is for educational and academic purposes.
